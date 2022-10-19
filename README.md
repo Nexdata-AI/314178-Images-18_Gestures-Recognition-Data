@@ -1,8 +1,11 @@
 # 314178-Images-18_Gestures-Recognition-Data
-https://www.datatang.ai/datasets/957
+
 
 ## Description
 314,178 Images 18_Gestures Recognition Data. This data diversity includes multiple scenes, 18 gestures, 5 shooting angels, multiple ages and multiple light conditions. For annotation, gesture 21 landmarks (each landmark includes the attribute of visible and visible), gesture type and gesture attributes were annotated. This data can be used for tasks such as gesture recognition and human-machine interaction.
+
+For more details, please refer to the link: https://bit.ly/3SejwYy
+
 
 ## Data size
 314,178 images, 18 gestures
@@ -27,3 +30,6 @@ the image format is .jpg, the annotated file format is .json
 
 ## Accuracy
 the accuracy of gesture landmarks annotation is not less than 95%; the accuracies of gesture type and gesture attributes are not less than 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
