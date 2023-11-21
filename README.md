@@ -33,4 +33,4 @@ the image format is .jpg, the annotated file format is .json
 the accuracy of gesture landmarks annotation is not less than 95%; the accuracies of gesture type and gesture attributes are not less than 95%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
