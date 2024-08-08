@@ -4,7 +4,7 @@
 ## Description
 314,178 Images 18_Gestures Recognition Data. This data diversity includes multiple scenes, 18 gestures, 5 shooting angels, multiple ages and multiple light conditions. For annotation, gesture 21 landmarks (each landmark includes the attribute of visible and visible), gesture type and gesture attributes were annotated. This data can be used for tasks such as gesture recognition and human-machine interaction.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/957?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/957?source=Github
 
 
 
